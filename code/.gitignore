@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Environment
+.env
+
+# Outputs
+*.csv
+
+# OS
+.DS_Store
